@@ -1,0 +1,20 @@
+# Local developer files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.blend1
+*.blend2
+.vscode/
+.idea/
+bin/
+obj/
+TestResults/
+.env
+.env.*
+!.env.example
+
+# Local publish/build outputs; commit reviewed distributable artifacts explicitly.
+build/
+dist/
