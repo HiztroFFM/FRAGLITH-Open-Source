@@ -1,0 +1,1 @@
+"""FRAGLITH standalone local diagnostics."""
