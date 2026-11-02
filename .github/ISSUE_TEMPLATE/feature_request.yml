@@ -1,0 +1,36 @@
+name: "Feature request / Öneri"
+description: "Suggest a learning resource, plugin idea, or improvement."
+title: "[Idea] "
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area / Alan
+      options:
+        - Plugin development
+        - Model porting
+        - Animation / AG2
+        - Community learning resource
+        - Documentation / translation
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: Problem or learning need / İhtiyaç
+      description: "Describe the problem before proposing a solution."
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Suggested approach / Öneri
+      description: "What would a useful solution look like?"
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: References / Kaynaklar
+      description: "Link original or properly licensed references."
