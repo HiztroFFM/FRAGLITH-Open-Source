@@ -16,6 +16,8 @@ FRAGLITH'in CS2 eklenti, sunucu ve model geliştirme çalışmaları sırasında
 | [Oyun logu analizi](source2-logs.md) | Asset yükleme hatasını gerçek çökme belirtisinden ayırma | Log-backed |
 | [Game mode eklenti tasarımı](plugin-architecture.md) | Timer, kredi ödemesi, thread, DB batch ve reload yaşam döngüsü | Code-reviewed; live unverified |
 | [Spawn / takım doluluğu](spawn-capacity.md) | Harita spawn noktası ve takım kapasitesi için güvenli test planı | Guidance |
+| [Model, hitbox ve skeleton](models-hitboxes.md) | Mesh, attachment ve gameplay hitbox ayrımı | Guidance |
+| [Config ve gizlilik](config-security.md) | Gizli değerleri binary/config içine gömmeme, güvenli log paylaşımı | Code-reviewed principles |
 | [HUD ve yükleme ekranları](hud-loading.md) | Sunucu tarafından kontrol edilen UI ile istemci yükleme akışının sınırı | Guidance |
 | [Güvenli log paylaşımı](../../tools/README.md) | Yerel log tarama ve sansürleme aracı | New example; not a game plugin |
 
