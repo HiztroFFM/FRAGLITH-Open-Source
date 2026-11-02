@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "FRAGLITH Discord"
+    url: "https://discord.gg/Aq8NgGswN"
+    about: "Discuss questions and learn together before filing an issue."
