@@ -1,0 +1,47 @@
+name: "Bug report / Hata bildirimi"
+description: "Report a reproducible problem with a guide, example, or code."
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Please avoid sharing credentials, private chats, or files you do not have permission to redistribute."
+  - type: dropdown
+    id: category
+    attributes:
+      label: Area / Alan
+      options:
+        - SwiftlyS2 plugin
+        - CounterStrikeSharp plugin
+        - Model / Source 2
+        - Animation / AG2
+        - Documentation
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem / Sorun
+      description: "Explain what fails and what should happen."
+      placeholder: "Expected: ... Actual: ..."
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps / Tekrar adımları
+      description: "Include the smallest safe reproduction."
+      placeholder: "1. ...\n2. ..."
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Versions / Sürümler
+      placeholder: "CS2 build, framework, OS, Blender/Workshop Tools"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Hata çıktısı
+      description: "Remove secrets and personal information."
+      render: shell
