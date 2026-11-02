@@ -7,6 +7,8 @@
 - [x] Publish community introduction and Discord invite
 - [x] Add contribution guidelines
 - [x] Add issue/PR templates, conduct rules, and starter resources
+- [x] Publish privacy-safe historical CS2 troubleshooting notes
+- [x] Publish a standalone local log-triage script and tests
 - [ ] Recruit volunteer maintainers and reviewers
 - [ ] Gather first community feedback
 
