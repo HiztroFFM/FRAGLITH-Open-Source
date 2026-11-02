@@ -59,6 +59,25 @@ Our goal is to make practical knowledge accessible through responsible sharing a
 - **[Contribute](CONTRIBUTING.md)** — propose a fix or guide
 - **[Community conduct](CODE_OF_CONDUCT.md)** and **[Security policy](SECURITY.md)**
 
+## Public knowledge base / Teknik çözümler
+
+We've started publishing **privacy-safe technical notes** distilled from previous CS2 troubleshooting, organized by evidence level. Unresolved experiments are clearly marked.
+
+**[CS2 Technical Knowledge Base](docs/knowledge/README.md)** covers:
+
+- CounterStrikeSharp DLL loading and dependency errors
+- SteamCMD disk allocation/update problems
+- SwiftlyS2 migration, plugin lifecycle and data consistency
+- Workshop, VData, ModelDoc, AG2 and custom model testing
+- Spawn capacity, loading UI limitations, hitboxes and log triage
+- Plugin transaction safety, credential hygiene and privacy
+
+**[CS2 Local Log Triage Tool](tools/README.md)** is an original Python example with unit tests. It prints aggregate error categories, **never the underlying log lines**.
+
+No private plugin code, unauthorized models, credentials or unfinished AG2 release is offered.
+
+---
+
 ## Contribution policy
 
 We respect creators and licenses. **Do not upload unauthorized proprietary models, paid assets, leaked source code, or private chats.** Contributions must be original or shared with the necessary redistribution rights and attribution.
