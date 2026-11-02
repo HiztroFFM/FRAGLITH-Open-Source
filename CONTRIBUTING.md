@@ -1,34 +1,35 @@
-# Contributing to FRAGLITH
+# Contributing to FRAGLITH / Katkıda Bulun
 
-Thanks for helping grow the Counter-Strike 2 development community.
+FRAGLITH welcomes developers, modellers, animators, translators and curious beginners.
 
-## Ways to contribute
+## What you can contribute
 
-- Share original CS2 plugins, scripts, examples, or utilities.
-- Write or improve guides about model porting and AG2 animation workflows.
-- Report issues with clear reproduction steps.
-- Review contributions and help other developers learn.
+- **Original plugin examples** (with framework, game version, build instructions and testing notes).
+- **Guides and corrections** for SwiftlyS2, CounterStrikeSharp, Source 2, Blender and AG2-related workflows.
+- **Bug reports** with reproducible steps and logs with secrets removed.
+- **Turkish / English translations** and accessible newcomer documentation.
 
-## Before submitting
+## How to contribute / Nasıl katkı yapılır?
 
-1. Check that your content is yours to share or properly licensed.
-2. Include instructions, requirements, and relevant version information.
-3. Credit upstream work and include license notices when required.
-4. Never upload game assets or third-party models, animations, or paid code without redistribution permission.
-5. Keep discussions constructive and avoid personal attacks.
+1. Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+2. Check [open issues](https://github.com/HiztroFFM/FRAGLITH-Open-Source/issues) and the [roadmap](ROADMAP.md).
+3. Open a focused bug report or suggestion, or fork this repository and open a pull request.
+4. Explain your changes, prerequisites and testing. If you have not tested something, say so.
+5. Credit original work and include any license notices required by dependencies.
 
-## Pull requests
+## Rights and licensing
 
-Use a descriptive title and explain what you changed, how you tested it, and whether the change depends on external tools or assets.
+- Share only what you made or have explicit rights to redistribute.
+- No ripped models, proprietary animation bundles, commercial plugins, stolen code or leaked assets.
+- Do not include private messages, credentials, API tokens or personally identifying material.
+- By contributing material you own to this repository, you agree that it can be distributed under the repository's [MIT License](LICENSE) unless an alternative license is explicitly accepted and documented.
 
-## Community
+## Review
 
-Join the conversation: https://discord.gg/Aq8NgGswN
+Maintainers can ask for improvements or decline material that cannot be verified, does not comply with licensing, or harms the community. Respectful disagreement is welcome.
 
----
+## Türkçe özet
 
-# Türkçe
+Kendi yazdığın eklentileri, izinli model/animasyon çalışmalarını, dokümantasyonu ve hata çözümlerini paylaşabilirsin. Katkı yaparken **kaynağı, lisansı, kullanılan sürümü ve testleri** açıkça belirt. Başkasının ücretli dosyalarını veya izinsiz özel konuşmaları paylaşma.
 
-Topluluğa özgün kod, rehber, hata bildirimi veya geliştirme desteğiyle katkıda bulunabilirsin.
-
-Paylaşacağın içeriklerin dağıtım hakkına sahip olduğundan emin ol, kaynakları belirt ve diğer geliştiricilere saygılı davran.
+**Discord:** https://discord.gg/Aq8NgGswN
