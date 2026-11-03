@@ -78,15 +78,14 @@ No private plugin code, unauthorized models, credentials or unfinished AG2 relea
 
 ---
 
-## Share FRAGLITH / Topluluğu paylaş
+## Share FRAGLITH / Topluluğu duyur
 
-If a community accepts relevant CS2 developer resources, you can share our [bilingual GitHub listing and Discord announcement](docs/PROMOTION.md). It introduces the existing documentation and tools without presenting unfinished plugins or model packs as releases.
-
-**Topics:** Counter-Strike 2, CS2, CS2 plugins, SwiftlyS2, CounterStrikeSharp, Source 2, 3D model porting, Blender, AG2 animations, VData, open source, game server development.
+- [DEV Community launch article](outreach/DEV-ARTICLE.md) — a technical introduction for game developers
+- [Turkish and English social posts](outreach/SOCIAL-POSTS.md) — prepared announcements for channels that permit promotion
+- [Outreach submission status](outreach/PUBLISHING-STATUS.md) — publicly distinguishes submitted, published and draft content
 
 **Discord:** https://discord.gg/Aq8NgGswN
 
----
 
 ## Contribution policy
 
